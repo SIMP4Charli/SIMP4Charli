@@ -2,7 +2,7 @@
 - 👀 I’m interested in pokemon
 - 🌱 I’m currently learning javascript & html
 - 💞️ I’m looking to collaborate on pokemon fan games
-- 📫 How to reach me-Email. I wont be on much durring school hours.
+- 📫 How to reach me-Email. I wont be on much during school hours.
 
 <!---
 SIMP4Charli/SIMP4Charli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
